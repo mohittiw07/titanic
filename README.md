@@ -12,10 +12,8 @@ It includes:
 ## 📂 Dataset
 You will need a CSV file named: Titanic-Dataset
 
-✅ Model Evaluation:
-Accuracy: 85.42 %
-Precision: 0.8021
-Recall: 0.7568
-F1 Score: 0.7788
-
-💾 Model saved as 'titanic_model.pkl'
+##✅ Model Evaluation:
+- Accuracy: 85.42 %
+- Precision: 0.8021
+- Recall: 0.7568
+- F1 Score: 0.7788
